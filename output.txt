@@ -1,0 +1,276 @@
+println is a print
+
+( is Left Paratheses
+
+Hello is a string
+
+World is a string
+
+2 Lexime Value NUMBER 2
+
+3 Lexime Value NUMBER 3
+
+x is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+2 Lexime Value NUMBER 2
+
+y is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+3 Lexime Value NUMBER 3
+
+x is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+=         Token Keyword ID:33  ASSIGN
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
++ plus
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
+y is a ID
+
+if is an If
+
+2 Lexime Value NUMBER 2
+
+3 Lexime Value NUMBER 3
+
+println is a print
+
+( is Left Paratheses
+
+I is a string
+
+graduted is a string
+
+7 Lexime Value NUMBER 7
+
+9 Lexime Value NUMBER 9
+
+println is a print
+
+( is Left Paratheses
+
+You is a string
+
+graduted is a string
+
+println is a print
+
+( is Left Paratheses
+
+You is a string
+
+Failed is a string
+
+println is a print
+
+( is Left Paratheses
+
+Hello is a string
+
+World is a string
+
+2 Lexime Value NUMBER 2
+
+3 Lexime Value NUMBER 3
+
+x is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+2 Lexime Value NUMBER 2
+
+y is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+3 Lexime Value NUMBER 3
+
+x is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+=         Token Keyword ID:33  ASSIGN
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
++ plus
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
+y is a ID
+
+if is an If
+
+2 Lexime Value NUMBER 2
+
+3 Lexime Value NUMBER 3
+
+println is a print
+
+( is Left Paratheses
+
+I is a string
+
+graduted is a string
+
+7 Lexime Value NUMBER 7
+
+9 Lexime Value NUMBER 9
+
+println is a print
+
+( is Left Paratheses
+
+You is a string
+
+graduted is a string
+
+println is a print
+
+( is Left Paratheses
+
+You is a string
+
+Failed is a string
+
+println is a print
+
+( is Left Paratheses
+
+Hello is a string
+
+World is a string
+
+2 Lexime Value NUMBER 2
+
+3 Lexime Value NUMBER 3
+
+x is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+2 Lexime Value NUMBER 2
+
+y is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+3 Lexime Value NUMBER 3
+
+x is a ID
+
+=         Token Keyword ID:33  ASSIGN
+
+=         Token Keyword ID:33  ASSIGN
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
++ plus
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
+y is a ID
+
+println is a print
+
+( is Left Paratheses
+
+x is a ID
+
+y is a ID
+
+if is an If
+
+2 Lexime Value NUMBER 2
+
+3 Lexime Value NUMBER 3
+
+println is a print
+
+( is Left Paratheses
+
+I is a string
+
+graduted is a string
+
+7 Lexime Value NUMBER 7
+
+9 Lexime Value NUMBER 9
+
+println is a print
+
+( is Left Paratheses
+
+You is a string
+
+graduted is a string
+
+println is a print
+
+( is Left Paratheses
+
+You is a string
+
+Failed is a string
+
